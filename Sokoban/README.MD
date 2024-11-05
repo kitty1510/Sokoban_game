@@ -82,29 +82,49 @@ Upon starting, you’ll see a main menu where you can:
 <img src="UI_demo/menu_UI.png" align="center"/>
 </div>
 
-### Step 2:Selecting a level and Algorithm
+### Step 2: Selecting a level and Algorithm
 
 _Use the arrow keys (__left__ or __right__) to choose a level between 1 and 10._
+
 _Use the space bar to select an algorithm_
 + __DFS__ explores as far as possible along each branch before backtracking.
 + __BFS__ ensures the shortest solution in terms of moves but can be slower.
 + __UCS__ optimizes the total cost of moves.
 + __A*__ uses heuristics to find an efficient path.
 
-# Step 3: Start the game
+### Step 3: Start the game
 
 Press __Enter__ to begin solving the level with the chosen algorithm. Observe the AI as it calculates the path to solve the puzzle.
 
 <div align="center">
 <img src="UI_demo/gameInProcess_UI.png" align="center"/>
 </div>
+
 While the program is solving the puzzle (which may take approximately 1 to 5 minutes), you can cancel the process at any time by pressing the __ESC__ key.
 
+Once the puzzle is solved, press __SPACE__ to view the completed result.
+<div align="center">
+<img src="UI_demo/gameDone_UI.png" align="center"/>
+</div>
 
-# Contributing
+### Step 4: View the result
 
-Guidelines for contributing to the project.
+After completing [Step 3](#step-3-start-the-game),the game will automatically display the solution.
 
-## License
+<div align="center">
+<img src="UI_demo/gameResult_UI.png" align="center"/>
+</div>
 
-Information about the project's license.
+Once the puzzle is solved, the UI will return to the main menu. You can then go back to [Step 2](#step-2-selecting-a-level-and-algorithm) to choose a new level and algorithm to try again.
+
+# Reporting
++ [Video](https://www.youtube.com/watch?v=fSL-BlK9NcY&feature=youtu.be)
++ [Report](report.pdf) link này chưa biết do lúc làm chưa có
+
+
+# References
+
++ [UI](https://www.geeksforgeeks.org/pygame-tutorial/)
++ [Game Logic](https://sokoban.fandom.com/wiki/Sokoban_Wiki)
+
+
