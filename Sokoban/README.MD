@@ -109,13 +109,13 @@ Once the puzzle is solved, press __SPACE__ to view the completed result.
 
 #### Step 4: View the result
 
-After completing __Step 3__(#step-3-start-the-game),the game will automatically display the solution.
+After completing __[Step 3](#step-3-start-the-game)__,the game will automatically display the solution.
 
 <div align="center">
 <img src="UI_demo/gameResult_UI.png" align="center"/>
 </div>
 
-Once the puzzle is solved, the UI will return to the main menu. You can then go back to __Step 2__(#step-2-selecting-a-level-and-algorithm) to choose a new level and algorithm to try again.
+Once the puzzle is solved, the UI will return to the main menu. You can then go back to __[Step 2](#step-2-selecting-a-level-and-algorithm)__ to choose a new level and algorithm to try again.
 
 ## Reporting
 + __Video__(https://www.youtube.com/watch?v=fSL-BlK9NcY&feature=youtu.be)
@@ -125,8 +125,8 @@ Once the puzzle is solved, the UI will return to the main menu. You can then go 
 ## References
 
 ### For UI and game logic
-+ <a href="https://www.geeksforgeeks.org/pygame-tutorial/" style="color: black;font-weight: bold;">GUI</a>
-+ __[Game Logic]__(https://sokoban.fandom.com/wiki/Sokoban_Wiki)
++ __[GUI](https://www.geeksforgeeks.org/pygame-tutorial/)__
++ __[Game Logic](https://sokoban.fandom.com/wiki/Sokoban_Wiki)__
 ### For Algorithm
 + https://viblo.asia/p/data-structure-algorithm-graph-algorithms-breadth-first-search-bfs-gwd43kMM4X9
 + https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
