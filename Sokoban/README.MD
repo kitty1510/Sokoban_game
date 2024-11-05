@@ -24,8 +24,8 @@ The player is confined to the board and may move horizontally or vertically onto
 
 ## Features
 
-- Interactive GUI built with **Pygame**
-- **AI Pathfinding Algorithms:**
+- Interactive GUI built with __Pygame__
+- __AI Pathfinding Algorithms:__
   - Depth First Search (DFS)
   - Breadth First Search (BFS)
   - Uniform Cost Search (UCS)
@@ -40,7 +40,7 @@ The player is confined to the board and may move horizontally or vertically onto
 
 ## Installation
 
-**Install Dependencies**
+__Install Dependencies__
 
 ```sh
 $ pip install -r requirements.txt
@@ -48,7 +48,7 @@ $ pip install -r requirements.txt
 
 ## Usage
 
-__Run the game to experience the graphical interface, or execute the algorithm for a quick test of its functionality.__ 
+__Run [the game](#run-game) to experience the graphical interface, or execute the [algorithm](#run-test-algorithm) for a quick test of its functionality.__ 
  
 
 ### Run test algorithm
@@ -109,24 +109,24 @@ Once the puzzle is solved, press __SPACE__ to view the completed result.
 
 #### Step 4: View the result
 
-After completing [`__Step 3__`](#step-3-start-the-game),the game will automatically display the solution.
+After completing __Step 3__(#step-3-start-the-game),the game will automatically display the solution.
 
 <div align="center">
 <img src="UI_demo/gameResult_UI.png" align="center"/>
 </div>
 
-Once the puzzle is solved, the UI will return to the main menu. You can then go back to [`__Step 2__`](#step-2-selecting-a-level-and-algorithm) to choose a new level and algorithm to try again.
+Once the puzzle is solved, the UI will return to the main menu. You can then go back to __Step 2__(#step-2-selecting-a-level-and-algorithm) to choose a new level and algorithm to try again.
 
 ## Reporting
-+ [`__Video__`](https://www.youtube.com/watch?v=fSL-BlK9NcY&feature=youtu.be)
-+ [`__Report__ `](report.pdf) link này chưa biết do lúc làm chưa có
++ __Video__(https://www.youtube.com/watch?v=fSL-BlK9NcY&feature=youtu.be)
++ __Report__(report.pdf) link này chưa biết do lúc làm chưa có
 
 
 ## References
 
 ### For UI and game logic
-+ [`__GUI__`](https://www.geeksforgeeks.org/pygame-tutorial/)
-+ [`__Game Logic__`](https://sokoban.fandom.com/wiki/Sokoban_Wiki)
++ __GUI__(https://www.geeksforgeeks.org/pygame-tutorial/)
++ __Game Logic__(https://sokoban.fandom.com/wiki/Sokoban_Wiki)
 ### For Algorithm
 + https://viblo.asia/p/data-structure-algorithm-graph-algorithms-breadth-first-search-bfs-gwd43kMM4X9
 + https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
