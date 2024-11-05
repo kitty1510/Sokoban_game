@@ -19,6 +19,13 @@ The player is confined to the board and may move horizontally or vertically onto
 
 # Features
 + Interactive GUI built with `Pygame`
++ `AI Pathfinding Algorithms:`
+    + Depth First Search (DFS)
+    + Breadth First Search (BFS)
+    + Uniform Cost Search (UCS)
+    + A* Search (A*)
++ Level selection and algorithm choice for solving levels
++ Console-based testing for unit validation
 
 
 
@@ -34,20 +41,18 @@ Install Dependencies
 $ pip install -r requirements.txt
 ```
 
-Run game
-
-```sh
-$ python main.py
-```
-
-Run all test case in console
- ```sh
- $ pythyn runmain.py
- ```
-
 # Usage
 
-## Step 1
+ 
+$ Run test algorithm
+```sh
+$ python runmain.py
+```
+
+
+
+## Step 1: Launching the game 
+
 
 
 
