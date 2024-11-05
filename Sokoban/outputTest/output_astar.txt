@@ -1,3 +1,0 @@
-A-Star
-Steps: 211, Weight: 82, Node: 6665145, Time (ms): 422565.97, Memory (MB): 1513.63
-uluurDrrddrUrrRRRuRRRurDllllddrUluRRRurrdLrdLuLLLulDrdLLLdlUllluurDllllddrUluRRRdRRRRRRdrUllllllluurDldRRRRRRuRRRurDllllddrUluRRRurrdLLLLulDrrrrrddlUruLLLLdLLLLLLdlUrrrrrrruulDrrrrddlUruLLLdLLLLLLuLLLrrrdrrruulD
