@@ -18,8 +18,8 @@ The player is confined to the board and may move horizontally or vertically onto
 1.1.0
 
 # Features
-+ Interactive GUI built with `Pygame`
-+ `AI Pathfinding Algorithms:`
++ Interactive GUI built with _Pygame_
++ _AI Pathfinding Algorithms:_
     + Depth First Search (DFS)
     + Breadth First Search (BFS)
     + Uniform Cost Search (UCS)
@@ -30,8 +30,8 @@ The player is confined to the board and may move horizontally or vertically onto
 
 
 # Requirements
-+ `Python 3.12` or higher
-+ `Pip 24.3.1` or higher
++ _Python 3.12_ or higher
++ _Pip 24.3.1_ or higher
 
 
 # Installation
@@ -44,7 +44,7 @@ $ pip install -r requirements.txt
 # Usage
 
  
-$ Run test algorithm
+ _Run test algorithm_
 ```sh
 $ python runmain.py
 ```
