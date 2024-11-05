@@ -1,0 +1,15 @@
+BFS
+Steps: 211, Weight: 82, Node: 5613155, Time (ms): 211873.25, Memory (MB): 1042.02
+uluurDrrddrUrrRRRuRRRurDllllddrUluRRRurrddLruLLLLulDrdLLLdlUllluurDldRRRRRRdrUluRRRurDllldllllllullllddrUluRRRurDldRRRRRRdrUluRRRurrdLLLLulDrdLLLLLLdlUruLLLrrdrrrrrrurrrrrddlUruLLLLulDrrrrddlUruLLLdLLLLLLrrruulD
+
+DFS
+No Solution Found
+
+UCS
+Steps: 211, Weight: 82, Node: 6708874, Time (ms): 259383.87, Memory (MB): 1508.09
+uluurDrrddrUrrRRRuRRRurDllllddrUluRRRurrdLrdLuLLLulDrdLLLdlUllluurDllllddrUluRRRdRRRRRRdrUllllllluurDldRRRRRRuRRRurDllllddrUluRRRurrdLLLLulDrrrrrddlUruLLLLdLLLLLLdlUrrrrrrruulDrrrrddlUruLLLdLLLLLLuLLLrrrdrrruulD
+
+A-Star
+Steps: 211, Weight: 82, Node: 6665145, Time (ms): 422565.97, Memory (MB): 1513.63
+uluurDrrddrUrrRRRuRRRurDllllddrUluRRRurrdLrdLuLLLulDrdLLLdlUllluurDllllddrUluRRRdRRRRRRdrUllllllluurDldRRRRRRuRRRurDllllddrUluRRRurrdLLLLulDrrrrrddlUruLLLLdLLLLLLdlUrrrrrrruulDrrrrddlUruLLLdLLLLLLuLLLrrrdrrruulD
+
