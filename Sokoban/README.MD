@@ -48,6 +48,9 @@ $ pip install -r requirements.txt
 
 # Usage
 
+__Run the game to experience the graphical interface, or execute the algorithm for a quick test of its functionality.__ 
+ 
+
 ## Run test algorithm
 
 ```sh
@@ -61,15 +64,42 @@ This command will start the main script, `runmain.py`, to compare the effectiven
 - It allows you to see variations in _speed_, _path optimization_, and _computational resource_ usage for each algorithm.
 
 The output will be created, <a href="output/"> here </a>
-To see the result, [click here](output/).
 
 ## Run game
 
 ### Step 1: Launching the game
 
+__Run the command below__
+
 ```sh
 $ python main.py
 ```
+Upon starting, you’ll see a main menu where you can:
++ Choose a _level_ (1 to 10).
++ Select an _AI algorithm_ for solving the level.
+
+<div align="center">
+<img src="UI_demo/menu_UI.png" align="center"/>
+</div>
+
+### Step 2:Selecting a level and Algorithm
+
+_Use the arrow keys (__left__ or __right__) to choose a level between 1 and 10._
+_Use the space bar to select an algorithm_
++ __DFS__ explores as far as possible along each branch before backtracking.
++ __BFS__ ensures the shortest solution in terms of moves but can be slower.
++ __UCS__ optimizes the total cost of moves.
++ __A*__ uses heuristics to find an efficient path.
+
+# Step 3: Start the game
+
+Press __Enter__ to begin solving the level with the chosen algorithm. Observe the AI as it calculates the path to solve the puzzle.
+
+<div align="center">
+<img src="UI_demo/gameInProcess_UI.png" align="center"/>
+</div>
+While the program is solving the puzzle (which may take approximately 1 to 5 minutes), you can cancel the process at any time by pressing the __ESC__ key.
+
 
 # Contributing
 
