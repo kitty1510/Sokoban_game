@@ -125,7 +125,7 @@ Once the puzzle is solved, the UI will return to the main menu. You can then go 
 ## References
 
 ### For UI and game logic
-+ __[GUI](https://www.geeksforgeeks.org/pygame-tutorial/)__
++ <a href="https://www.geeksforgeeks.org/pygame-tutorial/" style="color: black;font-weight: bold;">GUI</a>
 + __[Game Logic]__(https://sokoban.fandom.com/wiki/Sokoban_Wiki)
 ### For Algorithm
 + https://viblo.asia/p/data-structure-algorithm-graph-algorithms-breadth-first-search-bfs-gwd43kMM4X9
