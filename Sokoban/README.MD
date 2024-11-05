@@ -48,7 +48,7 @@ $ pip install -r requirements.txt
 
 ## Usage
 
-__Run [the game](#run-game) to experience the graphical interface, or execute the [algorithm](#run-test-algorithm) for a quick test of its functionality.__ 
+__Run [Game](#run-game) to experience the graphical interface, or execute [Algorithm Test](#run-test-algorithm) for a quick test of its functionality.__ 
  
 
 ### Run test algorithm
@@ -118,8 +118,8 @@ After completing __[Step 3](#step-3-start-the-game)__,the game will automaticall
 Once the puzzle is solved, the UI will return to the main menu. You can then go back to __[Step 2](#step-2-selecting-a-level-and-algorithm)__ to choose a new level and algorithm to try again.
 
 ## Reporting
-+ __Video__(https://www.youtube.com/watch?v=fSL-BlK9NcY&feature=youtu.be)
-+ __Report__(report.pdf) link này chưa biết do lúc làm chưa có
++ __[Video](https://www.youtube.com/watch?v=fSL-BlK9NcY&feature=youtu.be)__
++ __[Report](report.pdf)__ link này chưa biết do lúc làm chưa có
 
 
 ## References
