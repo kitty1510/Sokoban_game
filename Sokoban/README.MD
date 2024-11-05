@@ -126,7 +126,7 @@ Once the puzzle is solved, the UI will return to the main menu. You can then go 
 
 ### For UI and game logic
 + __[GUI](https://www.geeksforgeeks.org/pygame-tutorial/)__
-+ [__Game Logic__](https://sokoban.fandom.com/wiki/Sokoban_Wiki)
++ __[Game Logic]__(https://sokoban.fandom.com/wiki/Sokoban_Wiki)
 ### For Algorithm
 + https://viblo.asia/p/data-structure-algorithm-graph-algorithms-breadth-first-search-bfs-gwd43kMM4X9
 + https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
